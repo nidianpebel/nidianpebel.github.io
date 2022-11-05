@@ -1,8 +1,8 @@
 import React from "react";
-import Achievements from "../Achievements";
+// import Achievements from "../Achievements";
 import PersonalInfo from "../PersonalInfo";
-import Experience from "../Experience";
-import Education from "../Education";
+// import Experience from "../Experience";
+// import Education from "../Education";
 
 const ModalContent = () => {
   return (
@@ -11,33 +11,33 @@ const ModalContent = () => {
         <div className="col-6">
           <h3>Personal Info</h3>
           <PersonalInfo />
-          <div className="edina_tm_button">
+          {/* <div className="edina_tm_button">
             <a href="img/cv.jpg" download className="color">
               Download CV
             </a>
-          </div>
+          </div> */}
         </div>
         {/* End  PersonalInfo */}
 
-        <div className="col-6 achievements-wrapper">
+        {/* <div className="col-6 achievements-wrapper">
           <h3>Achievements</h3>
           <Achievements />
-        </div>
+        </div> */}
         {/* End  Achievements */}
       </div>
       {/* End .row */}
 
       <div className="row resume-box">
-        <div className="col-6">
+        {/* <div className="col-6">
           <h3>Experience</h3>
           <Experience />
-        </div>
+        </div> */}
         {/* End  Experience */}
 
-        <div className="col-6">
+        {/* <div className="col-6">
           <h3>Education</h3>
           <Education />
-        </div>
+        </div> */}
         {/* End  Education */}
       </div>
     </>
