@@ -38,6 +38,15 @@ const About = () => {
               I can help you! 🏡 🗝
               </p>
             </div>
+            <div className="edina_tm_button">
+                <button
+                  type="submit"
+                  className="color"
+                  onClick={toggleModalOne}
+                >
+                  See More
+                </button>
+              </div>
             {/* <div className="my_skills">
               <h3 className="title">What is my skill level?</h3>
               <p className="desc">
