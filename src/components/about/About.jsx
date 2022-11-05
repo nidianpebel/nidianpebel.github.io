@@ -30,10 +30,12 @@ const About = () => {
                 Hi, I'm <span>Rokers Nelson</span>
               </h3>
               <p>
-                I'm a Freelancer Front-end Developer with over 6 years of
-                experience. I'm from San Francisco. I code and create web
-                elements for amazing people around the world. I like work with
-                new people.
+              Hello everyone! 😀 Welcome to my page.
+              I’m a Realtor in the Rocky Point, Sonora Area. I have been in the industry for over 3 + years. 
+              I am a daughter, friend, sister, home owner, investor, bilingual, and I know the needs of my clients.
+              I focus on first time buyers, listings, investments and new construction homes. I have helped thousands 
+              of families to sell and buy a home. If you are interested in a free consultation, you can contact me, 
+              I can help you! 🏡 🗝
               </p>
             </div>
             <div className="my_skills">

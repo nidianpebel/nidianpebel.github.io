@@ -22,12 +22,12 @@ const sidebarContent = [
     itemRoute: "#portfolio",
     activeClass: "",
   },
-  {
-    icon: "testimonial",
-    itemName: "Testimonial",
-    itemRoute: "#testimonial",
-    activeClass: "",
-  },
+  // {
+  //   icon: "testimonial",
+  //   itemName: "Testimonial",
+  //   itemRoute: "#testimonial",
+  //   activeClass: "",
+  // },
   { icon: "blog", itemName: "Blog", itemRoute: "#blog", activeClass: "" },
   {
     icon: "contact",
@@ -40,9 +40,9 @@ const sidebarContent = [
 // sidebar footer bottom content
 const sidebarFooterContent = {
   avatar: "img/about/avatar.jpg",
-  name: "Nelson",
-  email: "support@gmail.com",
-  emailRef: "mailto:ib-themes21@gmail.com",
+  name: "Nidian",
+  email: "hola@nidianperez.com",
+  emailRef: "mailto:hola@nidianperez.com",
 };
 
 const Sidebar = () => {

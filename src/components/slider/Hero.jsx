@@ -5,7 +5,7 @@ import ReactTyped from "react-typed";
 const heroContent = {
   shapeImage: "hero-shape",
   heroImage: "2",
-  name: "Rokers Nelson",
+  name: "Nidian Perez",
   description: `I'm a Freelancer Front-end React Developer based In USA, over 6 years of
   professional experience.`,
 };

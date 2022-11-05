@@ -1,26 +1,26 @@
 import React from "react";
 import {
   FiFacebook,
-  FiTwitter,
+  // FiTwitter,
   FiInstagram,
-  FiDribbble,
+  // FiDribbble,
   FiLinkedin,
 } from "react-icons/fi";
 
 const SocialShare = [
   {
     iconName: <FiFacebook />,
-    link: "https://www.facebook.com/",
+    link: "https://www.facebook.com/Nidian-Perez-Real-Estate-Licensed-Agent-111001218176816/",
   },
-  { iconName: <FiTwitter />, link: "https://twitter.com/" },
+  // { iconName: <FiTwitter />, link: "https://twitter.com/" },
   {
     iconName: <FiInstagram />,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/nidianperezrealtor/",
   },
-  { iconName: <FiDribbble />, link: "https://dribbble.com/" },
+  // { iconName: <FiDribbble />, link: "https://dribbble.com/" },
   {
     iconName: <FiLinkedin />,
-    link: "https://www.linkedin.com/feed/",
+    link: "https://www.linkedin.com/in/nidian-y-perez-01502b245/",
   },
 ];
 const Social = () => {
