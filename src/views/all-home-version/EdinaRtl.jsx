@@ -144,10 +144,10 @@ const EdinaRtl = () => {
         <div className="container">
           <div className="edina_tm_title">
             <h3>Contact</h3>
-            <p>
+            {/* <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
               ipsum sit nibh amet egestas tellus.
-            </p>
+            </p> */}
           </div>
           <div className="extra_info">
             <Address />
