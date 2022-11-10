@@ -27,10 +27,10 @@ const About = () => {
           >
             <div className="info">
               <h3>
-                Hi, I'm <span>Rokers Nelson</span>
+              Hello everyone! 😀, I'm <span>Nidian Perez</span>
               </h3>
               <p>
-              Hello everyone! 😀 Welcome to my page.
+              Welcome to my page.
               I’m a Realtor in the Rocky Point, Sonora Area. I have been in the industry for over 3 + years. 
               I am a daughter, friend, sister, home owner, investor, bilingual, and I know the needs of my clients.
               I focus on first time buyers, listings, investments and new construction homes. I have helped thousands 
@@ -38,7 +38,16 @@ const About = () => {
               I can help you! 🏡 🗝
               </p>
             </div>
-            <div className="my_skills">
+            <div className="edina_tm_button">
+                <button
+                  type="submit"
+                  className="color"
+                  onClick={toggleModalOne}
+                >
+                  See More
+                </button>
+              </div>
+            {/* <div className="my_skills">
               <h3 className="title">What is my skill level?</h3>
               <p className="desc">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
@@ -58,7 +67,7 @@ const About = () => {
                   See More
                 </button>
               </div>
-            </div>
+            </div> */}
           </div>
           {/* End leftpart */}
 
@@ -85,7 +94,7 @@ const About = () => {
                 data-aos-delay="300"
               >
                 <div className="info">
-                  <h3>6+ Years</h3>
+                  <h3>2+ Years</h3>
                   <span>Of Experiance</span>
                 </div>
               </div>
