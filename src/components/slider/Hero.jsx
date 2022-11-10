@@ -6,8 +6,12 @@ const heroContent = {
   shapeImage: "hero-shape",
   heroImage: "2",
   name: "Nidian Perez",
-  description: `I'm a Freelancer Front-end React Developer based In USA, over 6 years of
-  professional experience.`,
+  description: `Hello there, I am a very dynamic and passionate individual who strives for excellence and compromise. 
+  I reside now in the City Of Puerto Penasco Sonora, and during this awesome time here 
+  I enjoy working in 2 different industries that both give me the opportunity to interact with awesome people.
+  I am a Licensed Real Estate agent that has all permits and certifications in Mexico, ready to assist you with all your Real Estate Needs.
+  I also work in collaboration with Picnic Party and Eventos Jerry when required.
+  `,
 };
 
 const Hero = () => {

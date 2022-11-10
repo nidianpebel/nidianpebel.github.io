@@ -162,9 +162,9 @@ const EdinaHome = () => {
             >
               <div className="title">
                 <p>
-                  I'm always open to discussing product
+                Please call me or DM me for any question you might have and
                   <br />
-                  <span> design work or partnerships.</span>
+                  <span> follow me on my social media.</span>
                 </p>
               </div>
               {/* End title */}
