@@ -4,7 +4,7 @@ import { useState } from "react";
 import Sidebar from "../../components/header/Sidebar";
 import Hero from "../../components/slider/Hero";
 import About from "../../components/about/About";
-import Service from "../../components/service/Service";
+// import Service from "../../components/service/Service";
 // import Portfolio from "../../components/portfolio/Portfolio";
 // import Testimonial from "../../components/testimonial/Testimonial";
 import Blog from "../../components/blog/Blog";
@@ -76,7 +76,7 @@ const EdinaHome = () => {
       <About />
       {/* End Hero */}
 
-      <div className="edina_tm_services" id="service">
+      {/* <div className="edina_tm_services" id="service">
         <div className="container">
           <div className="edina_tm_title">
             <h3>What I Do</h3>
@@ -84,11 +84,11 @@ const EdinaHome = () => {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
               ipsum sit nibh amet egestas tellus.
             </p>
-          </div>
+          </div> */}
           {/* End edian_tm_title */}
-          <Service />
+          {/* <Service />
         </div>
-      </div>
+      </div> */}
       {/* End Services */}
 
       {/* <div className="edina_tm_portfolio" id="portfolio">
@@ -127,10 +127,10 @@ const EdinaHome = () => {
         <div className="container">
           <div className="edina_tm_title">
             <h3>Blog</h3>
-            <p>
+            {/* <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
               ipsum sit nibh amet egestas tellus.
-            </p>
+            </p> */}
           </div>
           {/* End edian_tm_title */}
           <Blog />
