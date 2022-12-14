@@ -19,54 +19,29 @@ const ModalTwo = () => {
 
       <div className="news_details">
         <span>
-          March 25,2021 <a href="#">Branding</a>
+          December 12,2022 <a href="#">Lifestyle</a>
         </span>
-        <h3 className="title"> Mosby Lavette</h3>
+        <h3 className="title"> Why to buy Real Estate in Puerto Penasco?</h3>
       </div>
       {/* End details */}
       <div className="main_content">
         <div className="descriptions">
           <p>
-            Just because we can't get out and about like we normally would,
-            doesn’t mean we have to stop taking pictures. There’s still plenty
-            you can do, provided you're prepared to use some imagination. Here
-            are a few ideas to keep you shooting until normal life resumes.
+            You can own the home of your dreams in here and for much less than it 
+            would cost you most anywhere in the U.S. or Canada.  The real estate 
+            market offers endless possibilities for your retirement : in one hand 
+            You can buy land and build the house you always wanted to own, or you 
+            can opt for an already made modern home in the city, or a villa in one 
+            of our gorgeous  gated communities. We also have awesome developments 
+            that have it all for you to have the best life ever.
           </p>
           <p>
-            Most photographers love to shoot the unusual, and you don’t get much
-            more unusual than These Unprecedented Times. Right now everything
-            counts as out of the ordinary. There are a number of remarkable
-            things about these lockdown days that are worth photographing now so
-            we can remember them when it is all over.
-          </p>
-          <p>
-            Streets empty that are usually busy are remarkable and can evoke the
-            sense of historical pictures from before the invention of the
-            motorcar. Other things that are different at the moment will be
-            queues to get into stores and the lines marked out on the floor to
-            show how far apart we should be.
-          </p>
-          <div className="quotebox">
-            <p>
-              Most photographers find it hard to see interesting pictures in
-              places in which they are most familiar. A trip somewhere new seems
-              always exactly what our photography needed, as shooting away from
-              home consistently inspires us to new artistic heights.
-            </p>
-          </div>
-          <p>
-            Pretend everything is new and that you haven’t seen it before, and
-            then you will be free to notice the leading lines, the places where
-            one edge meets another in delightful geometric harmony, and how the
-            ordinary things in the kitchen are transformed when the light is on
-            or off.
-          </p>
-          <p>
-            The trick here is to look slowly, and then look again. Take the time
-            to look in detail and to look at the same thing from different
-            angles, with different light, long lenses and wide lenses. Then move
-            to the left a bit. You may never feel the need to leave the house
-            again.
+            For example, You can retire on a <a href="https://internationalliving.com/countries/mexico/beachfront/">beachfront</a>, golf course community 
+            with all amenities (like Las Conchas, Islas del Mar, Laguna Shores 
+            or many others). You can also retire in a beach front condo 
+            (we have the best you could think of in Sandy Beach and Playa Azul) 
+            or in a modern comfortable  house in the city— the possibilities are 
+            limitless if you have an open heart. 
           </p>
         </div>
         {/* End description */}

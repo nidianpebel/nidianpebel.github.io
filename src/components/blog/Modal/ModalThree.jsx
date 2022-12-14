@@ -18,54 +18,33 @@ const ModalThree = () => {
       {/* END IMAGE */}
       <div className="news_details">
         <span>
-          April 07,2021 <a href="#">Inspiration</a>
+          December 11,2022 <a href="#">Lifestyle</a>
         </span>
-        <h3 className="title">Chul Urina</h3>
+        <h3 className="title">Why to retire in Puerto Penasco?</h3>
       </div>
       {/* End details */}
       <div className="main_content">
         <div className="descriptions">
           <p>
-            Just because we can't get out and about like we normally would,
-            doesn’t mean we have to stop taking pictures. There’s still plenty
-            you can do, provided you're prepared to use some imagination. Here
-            are a few ideas to keep you shooting until normal life resumes.
+            Puerto Penasco is a great option for people who want to make the 
+            transition to move into Mexico full time or retire for its 
+            proximity to the border. 
+            If Are you considering retiring in some place warm and exotic 
+            without giving up life’s conveniences, Then you should definitely 
+            consider retiring in Rocky Point.
           </p>
           <p>
-            Most photographers love to shoot the unusual, and you don’t get much
-            more unusual than These Unprecedented Times. Right now everything
-            counts as out of the ordinary. There are a number of remarkable
-            things about these lockdown days that are worth photographing now so
-            we can remember them when it is all over.
+            Being only 45 minutes from Lukeville Az, and being a beach destination
+            that has it all to  enjoy and relax, thats why Puerto Penasco is becoming
+            so popular among American families; and not only families from the other 
+            side of the border but also from other northern states. another great 
+            reason is because The real estate market offers endless possibilities 
+            for your retirement in Mexico.
           </p>
           <p>
-            Streets empty that are usually busy are remarkable and can evoke the
-            sense of historical pictures from before the invention of the
-            motorcar. Other things that are different at the moment will be
-            queues to get into stores and the lines marked out on the floor to
-            show how far apart we should be.
-          </p>
-          <div className="quotebox">
-            <p>
-              Most photographers find it hard to see interesting pictures in
-              places in which they are most familiar. A trip somewhere new seems
-              always exactly what our photography needed, as shooting away from
-              home consistently inspires us to new artistic heights.
-            </p>
-          </div>
-          <p>
-            Pretend everything is new and that you haven’t seen it before, and
-            then you will be free to notice the leading lines, the places where
-            one edge meets another in delightful geometric harmony, and how the
-            ordinary things in the kitchen are transformed when the light is on
-            or off.
-          </p>
-          <p>
-            The trick here is to look slowly, and then look again. Take the time
-            to look in detail and to look at the same thing from different
-            angles, with different light, long lenses and wide lenses. Then move
-            to the left a bit. You may never feel the need to leave the house
-            again.
+            Mexico is also appealing to an increasing number of professionals
+            and business people who semi-retire to Mexico while continuing to 
+            work and manage their companies…while sitting on a beach with a laptop.
           </p>
         </div>
         {/* END DESCRIPTION */}
