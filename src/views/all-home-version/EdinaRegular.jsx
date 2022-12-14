@@ -5,8 +5,8 @@ import Sidebar from "../../components/header/Sidebar";
 import Hero from "../../components/slider/Hero";
 import About from "../../components/about/About";
 import Service from "../../components/service/Service";
-import Portfolio from "../../components/portfolio/Portfolio";
-import Testimonial from "../../components/testimonial/Testimonial";
+// import Portfolio from "../../components/portfolio/Portfolio";
+// import Testimonial from "../../components/testimonial/Testimonial";
 import Blog from "../../components/blog/Blog";
 import Contact from "../../components/Contact";
 import Address from "../../components/Address";
@@ -91,7 +91,7 @@ const EdinaHome = () => {
       </div>
       {/* End Services */}
 
-      <div className="edina_tm_portfolio" id="portfolio">
+      {/* <div className="edina_tm_portfolio" id="portfolio">
         <div className="container">
           <div className="edina_tm_title">
             <h3>Portfolio</h3>
@@ -100,13 +100,12 @@ const EdinaHome = () => {
               ipsum sit nibh amet egestas tellus.
             </p>
           </div>
-          {/* End edian_tm_title */}
           <Portfolio />
         </div>
-      </div>
+      </div> */}
       {/* End Portfolio */}
 
-      <div className="edina_tm_testimonials" id="testimonial">
+      {/* <div className="edina_tm_testimonials" id="testimonial">
         <div className="container">
           <div className="edina_tm_title">
             <h3>Testimonials</h3>
@@ -115,14 +114,13 @@ const EdinaHome = () => {
               ipsum sit nibh amet egestas tellus.
             </p>
           </div>
-          {/* End edian_tm_title */}
           <div className="list ">
             <ul>
               <Testimonial />
             </ul>
           </div>
         </div>
-      </div>
+      </div> */}
       {/* End Testimonial */}
 
       <div className="edina_tm_news" id="blog">
@@ -144,10 +142,10 @@ const EdinaHome = () => {
         <div className="container">
           <div className="edina_tm_title">
             <h3>Contact</h3>
-            <p>
+            {/* <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
               ipsum sit nibh amet egestas tellus.
-            </p>
+            </p> */}
           </div>
           <div className="extra_info">
             <Address />
@@ -162,9 +160,9 @@ const EdinaHome = () => {
             >
               <div className="title">
                 <p>
-                  I'm always open to discussing product
+                Please call me or DM me for any question you might have and
                   <br />
-                  <span> design work or partnerships.</span>
+                  <span> follow me on my social media.</span>
                 </p>
               </div>
               {/* End title */}

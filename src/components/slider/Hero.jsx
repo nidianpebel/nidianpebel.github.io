@@ -6,8 +6,10 @@ const heroContent = {
   shapeImage: "hero-shape",
   heroImage: "2",
   name: "Nidian Perez",
-  description: `I'm a Freelancer Front-end React Developer based In USA, over 6 years of
-  professional experience.`,
+  description: `I am a very dynamic and passionate individual who strives for excellence and compromise. 
+  I reside now in the City Of Puerto Penasco Sonora, and during this awesome time here 
+  I enjoy working in 2 different industries that both give me the opportunity to interact with awesome people.
+  `,
 };
 
 const Hero = () => {
@@ -42,7 +44,7 @@ const Hero = () => {
                 loop
                 typeSpeed={150}
                 backSpeed={60}
-                strings={["Real estate agent", "Event coordinator"]}
+                strings={["Real Estate Agent", "Event Coordinator"]}
                 smartBackspace
                 shuffle={false}
                 backDelay={1}
@@ -71,7 +73,7 @@ const Hero = () => {
           >
             <Social />
           </div>
-          <div
+          {/* <div
             className="edina_tm_button"
             data-aos="fade-up"
             data-aos-duration="1200"
@@ -80,7 +82,7 @@ const Hero = () => {
             <a href="img/cv.jpg" download className="color">
               Download CV
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
