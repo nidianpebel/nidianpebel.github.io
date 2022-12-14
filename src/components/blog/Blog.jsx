@@ -78,7 +78,7 @@ const Blog = () => {
                     December 13,2022 <a href="#">Lifestyle</a>
                   </span>
                   <h3 className="title" onClick={toggleModalOne}>
-                    What are the steps to buy RE in Mexico?
+                    Where is located Puerto Penasco?
                   </h3>
                 </div>
                 {/* End details */}
@@ -176,7 +176,7 @@ const Blog = () => {
                     December 13,2022 <a href="#">Lifestyle</a>
                   </span>
                   <h3 className="title" onClick={toggleModalFour}>
-                    Where is located Puerto Penasco?
+                    What are the steps to buy RE in Mexico?
                   </h3>
                 </div>
                 {/* End details */}
