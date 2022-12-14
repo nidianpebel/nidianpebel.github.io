@@ -75,10 +75,10 @@ const Blog = () => {
 
                 <div className="news_details">
                   <span>
-                    April 07,2021 <a href="#">Design</a>
+                    December 13,2022 <a href="#">Lifestyle</a>
                   </span>
                   <h3 className="title" onClick={toggleModalOne}>
-                    Forzo Immobile
+                    Where is located Puerto Penasco?
                   </h3>
                 </div>
                 {/* End details */}
