@@ -10,7 +10,7 @@ const ModalFour = () => {
           className="main"
           style={{
             backgroundImage: `url(${
-              process.env.PUBLIC_URL + "img/news/1.jpg"
+              process.env.PUBLIC_URL + "img/news/4.jpg"
             })`,
           }}
         ></div>
@@ -19,55 +19,31 @@ const ModalFour = () => {
 
       <div className="news_details">
         <span>
-          April 07,2021 <a href="#">Travel Landing</a>
+          December 13,2022 <a href="#">Lifestyle</a>
         </span>
-        <h3 className="title">Dostie Memorie</h3>
+        <h3 className="title">Where is located Puerto Penasco?</h3>
       </div>
       {/* End details */}
 
       <div className="main_content">
         <div className="descriptions">
           <p>
-            Just because we can't get out and about like we normally would,
-            doesn’t mean we have to stop taking pictures. There’s still plenty
-            you can do, provided you're prepared to use some imagination. Here
-            are a few ideas to keep you shooting until normal life resumes.
+            Puerto Peñasco AKA Rocky Point is a trending destination that is located 
+            in the Northwestern part of Mexico. The Port of Peñasco is very often 
+            called “The Vallarta of the North” because of its incredible beaches and 
+            recent development; and is also called “The Mexican Dubai” because of 
+            its luxurious and ambitious projects being held.
           </p>
           <p>
-            Most photographers love to shoot the unusual, and you don’t get much
-            more unusual than These Unprecedented Times. Right now everything
-            counts as out of the ordinary. There are a number of remarkable
-            things about these lockdown days that are worth photographing now so
-            we can remember them when it is all over.
+            The most common nickname that Puerto Peñasco receives is “Arizona’s Beach” 
+            because of its proximity to its neighbor State... being at only 45 minutes 
+            away from the border.
           </p>
           <p>
-            Streets empty that are usually busy are remarkable and can evoke the
-            sense of historical pictures from before the invention of the
-            motorcar. Other things that are different at the moment will be
-            queues to get into stores and the lines marked out on the floor to
-            show how far apart we should be.
-          </p>
-          <div className="quotebox">
-            <p>
-              Most photographers find it hard to see interesting pictures in
-              places in which they are most familiar. A trip somewhere new seems
-              always exactly what our photography needed, as shooting away from
-              home consistently inspires us to new artistic heights.
-            </p>
-          </div>
-          <p>
-            Pretend everything is new and that you haven’t seen it before, and
-            then you will be free to notice the leading lines, the places where
-            one edge meets another in delightful geometric harmony, and how the
-            ordinary things in the kitchen are transformed when the light is on
-            or off.
-          </p>
-          <p>
-            The trick here is to look slowly, and then look again. Take the time
-            to look in detail and to look at the same thing from different
-            angles, with different light, long lenses and wide lenses. Then move
-            to the left a bit. You may never feel the need to leave the house
-            again.
+            Puerto Peñasco is a hidden gem, an oasis in the middle of the Pinacate and 
+            Altar Desert. Peñasco is a unique destination in northern Mexico that combines 
+            both landscapes: awesome views of the dessert with beautiful emerald waters 
+            embellished by dramatic and vivid sunsets.
           </p>
         </div>
         {/* End description */}

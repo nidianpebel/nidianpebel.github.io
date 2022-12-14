@@ -19,55 +19,53 @@ const ModalOne = () => {
 
       <div className="news_details">
         <span>
-          April 07,2021 <a href="#">Design</a>
+          December 13,2022 <a href="#">Lifestyle</a>
         </span>
-        <h3 className="title">Forzo Immobile</h3>
+        <h3 className="title">What are the steps to buy RE in Mexico?</h3>
       </div>
       {/* End details */}
 
       <div className="main_content">
         <div className="descriptions">
           <p>
-            Just because we can't get out and about like we normally would,
-            doesn’t mean we have to stop taking pictures. There’s still plenty
-            you can do, provided you're prepared to use some imagination. Here
-            are a few ideas to keep you shooting until normal life resumes.
+            <strong>Choosing a Certified Real Estate Advisor</strong>
+            <br />
+            I strongly recommend working with an AMPI-affiliated Real Estate Advisor 
+            If you are wanting to purchase real estate in Puerto Peñasco.
           </p>
           <p>
-            Most photographers love to shoot the unusual, and you don’t get much
-            more unusual than These Unprecedented Times. Right now everything
-            counts as out of the ordinary. There are a number of remarkable
-            things about these lockdown days that are worth photographing now so
-            we can remember them when it is all over.
+            <strong>Making an Offer in Rocky Point</strong>
+            <br />
+            Once you find your dream property, you can make an offer on it and your 
+            real estate advisor will write up the details on an AMPI-approved form. 
+            Your offer will either be rejected, counter-offered or accepted. 
+            If accepted, you will secure your offer with an escrow deposit which 
+            is held by an Escrow Company. 
           </p>
           <p>
-            Streets empty that are usually busy are remarkable and can evoke the
-            sense of historical pictures from before the invention of the
-            motorcar. Other things that are different at the moment will be
-            queues to get into stores and the lines marked out on the floor to
-            show how far apart we should be.
-          </p>
-          <div className="quotebox">
-            <p>
-              Most photographers find it hard to see interesting pictures in
-              places in which they are most familiar. A trip somewhere new seems
-              always exactly what our photography needed, as shooting away from
-              home consistently inspires us to new artistic heights.
-            </p>
-          </div>
-          <p>
-            Pretend everything is new and that you haven’t seen it before, and
-            then you will be free to notice the leading lines, the places where
-            one edge meets another in delightful geometric harmony, and how the
-            ordinary things in the kitchen are transformed when the light is on
-            or off.
+            <strong>Rocky Point Escrow Company</strong>
+            <br />
+            All transactions will use an escrow company for the purpose of securing 
+            your deposit payment and ultimately your remaining purchase payment. 
+            The escrow company will distribute funds the day of your closing to 
+            all entitled parties. 
           </p>
           <p>
-            The trick here is to look slowly, and then look again. Take the time
-            to look in detail and to look at the same thing from different
-            angles, with different light, long lenses and wide lenses. Then move
-            to the left a bit. You may never feel the need to leave the house
-            again.
+            <strong>After-Offer Activity</strong>
+            <br />
+            Once your offer is accepted and escrow deposit made a flurry of activity 
+            will begin in preparation for your closing. You will be contacted by 
+            your assigned closing coordinator that was agreed to in your 
+            offer-to-purchase by the buyer and seller’s agents. 
+          </p>
+          <p>
+            <strong>The Closing</strong>
+            <br />
+            A real estate closing in Mexico is conducted by a Notario who will oversee 
+            the signing of all legal documents. A Notario in Mexico is a real estate 
+            attorney whose responsibility is to register the sale and are legally 
+            responsible and held accountable to ensure the deed title is clean and 
+            recorded in the public registry. 
           </p>
         </div>
         {/* End description */}

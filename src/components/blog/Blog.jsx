@@ -66,7 +66,7 @@ const Blog = () => {
                     className="main"
                     style={{
                       backgroundImage: `url(${
-                        process.env.PUBLIC_URL + "img/news/4.jpg"
+                        process.env.PUBLIC_URL + "img/news/1.jpg"
                       })`,
                     }}
                   ></div>
@@ -75,10 +75,10 @@ const Blog = () => {
 
                 <div className="news_details">
                   <span>
-                    April 07,2021 <a href="#">Design</a>
+                    December 13,2022 <a href="#">Lifestyle</a>
                   </span>
                   <h3 className="title" onClick={toggleModalOne}>
-                    Forzo Immobile
+                    What are the steps to buy RE in Mexico?
                   </h3>
                 </div>
                 {/* End details */}
@@ -107,10 +107,10 @@ const Blog = () => {
 
                 <div className="news_details">
                   <span>
-                    March 25,2021 <a href="#">Branding</a>
+                    December 12,2022 <a href="#">Lifestyle</a>
                   </span>
                   <h3 className="title" onClick={toggleModalTwo}>
-                    Mosby Lavette
+                    Why to buy Real Estate in Puerto Penasco?
                   </h3>
                 </div>
                 {/* End details */}
@@ -140,10 +140,10 @@ const Blog = () => {
 
                 <div className="news_details">
                   <span>
-                    May 01,2021 <a href="#">Lifestyle</a>
+                    December 11,2022 <a href="#">Lifestyle</a>
                   </span>
                   <h3 className="title" onClick={toggleModalThree}>
-                    Jacuba Bamba
+                    Why to retire in Puerto Penasco?
                   </h3>
                 </div>
                 {/* End details */}
@@ -164,7 +164,7 @@ const Blog = () => {
                     className="main"
                     style={{
                       backgroundImage: `url(${
-                        process.env.PUBLIC_URL + "img/news/1.jpg"
+                        process.env.PUBLIC_URL + "img/news/4.jpg"
                       })`,
                     }}
                   ></div>
@@ -173,10 +173,10 @@ const Blog = () => {
 
                 <div className="news_details">
                   <span>
-                    July 07,2021 <a href="#">Travel</a>
+                    December 13,2022 <a href="#">Lifestyle</a>
                   </span>
                   <h3 className="title" onClick={toggleModalFour}>
-                    Dostie Memorie
+                    Where is located Puerto Penasco?
                   </h3>
                 </div>
                 {/* End details */}
