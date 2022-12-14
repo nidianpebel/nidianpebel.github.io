@@ -5,7 +5,7 @@ const personalInfoContent = [
   { meta: "last name", metaInfo: "Perez" },
   // { meta: "Age", metaInfo: "30 Years" },
   { meta: "Nationality", metaInfo: "Mexico" },
-  { meta: "Freelance", metaInfo: "Available" },
+  // { meta: "Freelance", metaInfo: "Available" },
   { meta: "Address", metaInfo: "Puerto Peñasco" },
   { meta: "phone", metaInfo: "+52 638 156 1763" },
   { meta: "Email", metaInfo: "hola@nidianperez.com" },
